@@ -18,19 +18,19 @@ schedule
 
 requirement
 ---
-Carla server
-anaconda
-mpi4py: need install mpi in win10
-gym
-stable-baselines
-opencv-python
-pygame
-imgaug
+Carla server  
+anaconda  
+mpi4py: need install mpi in win10  
+gym  
+stable-baselines  
+opencv-python  
+pygame  
+imgaug  
 
 Reference
 ---
-Carla simulator: https://github.com/carla-simulator/carla & https://github.com/bitsauce/Carla-ppo
-PSPNet: https://github.com/meetshah1995/pytorch-semseg
-VAE & SAC: https://github.com/araffin/learning-to-drive-in-5-minutes
-YOLO: https://github.com/pjreddie/darknet & https://pjreddie.com/darknet/yolo/
+Carla simulator: https://github.com/carla-simulator/carla & https://github.com/bitsauce/Carla-ppo  
+PSPNet: https://github.com/meetshah1995/pytorch-semseg  
+VAE & SAC: https://github.com/araffin/learning-to-drive-in-5-minutes  
+YOLO: https://github.com/pjreddie/darknet & https://pjreddie.com/darknet/yolo/  
 

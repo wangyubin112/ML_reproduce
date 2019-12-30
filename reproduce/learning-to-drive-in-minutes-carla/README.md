@@ -2,7 +2,7 @@ Learning to Drive Smoothly in Minutes in Carla Simulator
 ===
 For simple and plain virtual environment like donkey simulator, or simple and plain real environment like wayve experiment, car can both learn to drive smoothly in minutes. And I want to apply this technology in the complex and vivid virtual environment like Carla simulator.
 
-schedule
+Schedule
 ----
 | features                                      | status        |
 | --------                                      | :-----:       |
@@ -14,11 +14,11 @@ schedule
 | YOLO: identity pedestrian, car, guidepost...  | TODO          |
 | PSPNet + VAE + SAC + YOLO                     | TODO          |
 
-performance
+Performance
 ---
 TODO
 
-requirement
+Requirement
 ---
 Carla server  
 anaconda  
